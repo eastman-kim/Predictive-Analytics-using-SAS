@@ -1,4 +1,4 @@
-![curriculum](https://github.com/eastman-kim/Predictive-Analytics-using-SAS/curriculum.jpg)
+![curriculum](https://github.com/eastman-kim/Predictive-Analytics-using-SAS/img/curriculum.jpg)
 
 # MKT 6337.002 Marketing Predictive Analytics using SAS | Spring 2020
 

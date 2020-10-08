@@ -9,4 +9,4 @@
 -	Students will be proficient in the evaluation and use of data reduction techniques, response analysis, and customer classification.
 
 ## Curriculum
-![screenshot](https://github.com/eastman-kim/Predictive_Analytics_using_SAS/blob/master/Curriculum.jpg)
+![screenshot](https://github.com/eastman-kim/Predictive-Analytics-using-SAS/blob/master/Curriculum.jpg)
